@@ -1,5 +1,3 @@
-package LinearAlgebra;
-
 import java.util.Arrays;
 
 public class QRDecomposition {
